@@ -1,0 +1,9 @@
+/.vscode/
+/csharp-consumer/WordCountConsumer/.vs/
+/csharp-consumer/WordCountConsumer/bin/
+/csharp-consumer/WordCountConsumer/obj/
+/csharp-producer/WordCountProducer/.vs/
+/csharp-producer/WordCountProducer/bin/
+/csharp-producer/WordCountProducer/obj/
+/kafka-streams/WordCount/target/
+/kafka-streams/WordCount/src/test/java/
